@@ -72,6 +72,3 @@ for(let i=0;i<30;i++){let s=document.createElement('div');s.className='float';s.
 
 </body></html>
 
-
-
-bana bu kodları alt alta yazabilir misin
